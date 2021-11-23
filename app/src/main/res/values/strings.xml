@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SignUP Mail</string>
+    <string name="gmail">Gmail</string>
+    <string name="signup">SignUp</string>
+    <string name="code">Code</string>
+    <string name="title_activity_phone">PhoneActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="_998">+998</string>
+    <string name="gmail_orqali">Gmail orqali</string>
+    <string name="ro_yxatdan_o_tish">Ro\'yxatdan o\'tish</string>
+    <string name="telefon_raqami_orqali">Telefon raqami orqali</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ro_yxatdan_muvafaqiyatli_o_tdingiz">Ro\'yxatdan muvafaqiyatli o\'tdingiz</string>
+</resources>
